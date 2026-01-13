@@ -43,3 +43,35 @@ Ce cours est centré sur l’apprentissage de quelques éléments constitutifs d
 
 ## Exigences et évaluations
 
+
+
+## Séances du cours
+
+### Cours 1 -- 5 février
+
+- présentation du cours et tour de table
+- introduction historique: des machines à calculer jusqu'à l'aube d'internet 
+  - protocole TCP/IP
+  - hypertexte
+  - formation de communautés: courriels, listes et forums
+- *Early net art* : l'art en ligne avant le web
+
+pause
+
+- Le *World wide web* de Tim Berners-Lee
+  - URL
+  - HTTP 
+  - HTML
+- partie pratique: HTML
+
+
+
+### Cours 2 -- 12 février
+
+- retours sur le dernier cours: distinction entre internet et web
+- Indexation, moteurs de recherche
+- Conférence: Christelle Proux, *Image Atlas*
+
+
+
+### Cours 3 -- 19 février 
