@@ -1,2 +1,5 @@
-# art-6017
-Matériel du cours ART 6017 H-2025
+# Cours ART 6017 *Internet et Web*
+
+Matériel du cours, Lena MK, hiver 2026
+
+- Plan de cours
