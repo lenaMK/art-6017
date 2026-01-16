@@ -45,36 +45,87 @@ Ce cours est centré sur l’apprentissage de quelques éléments constitutifs d
 
 
 
+lectures
+
+- cours 2:
+- cours 3: 
+
+
+
 ## Séances du cours
 
-### Cours 1 -- 5 février
+### Cours 1 | 5 février
 
 - présentation du cours et tour de table
 - introduction historique: des machines à calculer jusqu'à l'aube d'internet 
+  - la mise en réseau: utopie vs surveillance
   - protocole TCP/IP
-  - hypertexte
+  - hypertexte (wampum as hypertext?)
   - formation de communautés: courriels, listes et forums
 - *Early net art* : l'art en ligne avant le web
+  - [Net art anthology](https://anthology.rhizome.org/): [*Reabracadabra*, Eduardo Kac](https://anthology.rhizome.org/reabracadabra)
+  - Judith Malloy *Bad Information* 
+    - WELL virtual community, whole earth catalog
+
+  - no internet net art (culture internet), hardware → faith holland
+
 
 pause
 
 - Le *World wide web* de Tim Berners-Lee
+  - info.cern.ch - home of the first website
   - URL
   - HTTP 
   - HTML
+  
 - partie pratique: HTML
+  - Igor ([pavarotti du html](https://intima.info/wp-content/uploads/2023/06/liberation-2001-html.png))
+  - voir le code source; utiliser les outils de développement dans la console
+
+- explication des évaluations
+  - SFPC
+  - [HTTPplaces to find interesting websites](https://httpoetics.bytoddwords.com/)
 
 
 
-### Cours 2 -- 12 février
+
+### Cours 2 | 12 février
 
 - retours sur le dernier cours: distinction entre internet et web
-- Indexation, moteurs de recherche
+- quelque part sur le web: navigateur, indexation, moteurs de recherche, seo
+  - [The web stalker](https://anthology.rhizome.org/the-web-stalker)  → navigateur
+
 - Conférence: Christelle Proux, *Image Atlas*
 
 pause
 
-- médium artistique ou moyen de communication? discussion de groupe sur les usages d'internet et du web pour nos pratiques 
-- partie pratique: CSS
+- présentations individuelles : sites/
 
-### Cours 3 -- 19 février 
+- partie pratique: les bases de CSS
+
+  
+
+### Cours 3 | 19 février 
+
+- médium artistique ou moyen de communication/documentation…? discussion de groupe sur les usages d'internet et du web pour nos pratiques 
+  - idées de noms de domaines
+  - 
+- plateformes, services, réseaux
+  - CMS, WordPress, formats de la pensée et de la créativité. Utilisateur·rice ou créateur·rice?
+  - *glitch feminism*
+
+pause
+
+- introduction à javascript
+- réseaux sociaux, décentralisation, formes de participation
+  - résidences instagram
+  - screensaver gallery (repo git)
+  - créations collectives
+- partie pratique: mise en ligne → aperçu du flux de production
+  - publication sites statiques: markdown/html
+    - github pages
+    - https://pinkmypad.net/
+  - versionnement avec git
+  - documentation et archives: accès aux contenus, export et possibilités de réutilisation
+
+- 
