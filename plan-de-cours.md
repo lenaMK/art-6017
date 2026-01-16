@@ -72,6 +72,9 @@ pause
 - Indexation, moteurs de recherche
 - Conférence: Christelle Proux, *Image Atlas*
 
+pause
 
+- médium artistique ou moyen de communication? discussion de groupe sur les usages d'internet et du web pour nos pratiques 
+- partie pratique: CSS
 
 ### Cours 3 -- 19 février 
