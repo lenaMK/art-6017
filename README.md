@@ -2,9 +2,9 @@
 
 
 
-<img src="https://www.faithholland.com/wp-content/uploads/2020/11/faith-holland-detumescence-thumb.jpg" alt="Detumescence, installation by Faith Holland" style="zoom: 67%;" />
+<img src="https://www.faithholland.com/wp-content/uploads/2020/07/soft-computing-blue-fath-holland.jpg" alt="Soft computing, artwork by Faith Holland, Plushie old mac with plushy keyboard and lan cables"/>
 
-<figcaption style=" text-align: right">Faith Holland, [*Detumescence*](https://www.faithholland.com/portfolio_page/detumescence/)</figcaption>
+<figcaption style=" text-align: right">Faith Holland, [*Soft Computing*](https://www.faithholland.com/portfolio_page/soft-computing/)</figcaption>
 
 Matériel du cours, Lena MK, hiver 2026
 
