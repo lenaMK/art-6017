@@ -54,6 +54,7 @@ Ce cours est centré sur l’apprentissage de quelques éléments constitutifs d
 
 - **cours 3**: Russell, Legacy. 2020. *Glitch Feminism: A Manifesto*. Verso.
   - *Introduction*: p.3-14
+  - *Glitch Ghosts*: p.63-69
   - *Glitch is Error*: p.73-79
   - *Glitch mobilizes*: p. 121-129
 
@@ -83,28 +84,27 @@ Ce cours est centré sur l’apprentissage de quelques éléments constitutifs d
 
 ### Cours 1 | 5 février
 
-- présentation du cours et tour de table
-- introduction historique: des machines à calculer jusqu'à l'aube d'internet 
+- Présentation du cours et tour de table
+- Introduction historique: des machines à calculer jusqu'à internet 
 - *Early net art* : l'art en ligne avant le web
 
 
 pause
 
-- Le *World wide web* de Tim Berners-Lee
-- partie pratique: HTML
-- explication des évaluations
+- Le *World wide web* 
+- Partie pratique: HTML
 
 
 
 
 ### Cours 2 | 12 février
 
-- retours sur le dernier cours: distinction entre internet et web
+- Retours sur le dernier cours: distinction entre internet et web
 - Ẽtre quelque part sur le web: se situer dans l'espace numérique
   
 - Conférence: Christelle Proux, *Image Atlas*
 
-pause
+Pause
 
 - Présentations individuelles : sites "faits à la main" 
 
@@ -114,24 +114,20 @@ pause
 
 ### Cours 3 | 19 février 
 
-- plateformes, services, réseaux
+- Plateformes, services, réseaux
   - *glitch feminism*: refus, bug et glitch
   - CMS, WordPress, formats de la pensée et de la créativité. Utilisateur·rice ou créateur·rice?
   - réseaux sociaux, décentralisation, formes de participation
-    - résidences instagram
-    - screensaver gallery (repo git)
-    - créations collectives
-- introduction à javascript: 
+- Introduction à javascript: 
   - interactions et interfaces: clavier, souris, boutons et hyperliens
   - intention et architecture : UI/UX, story board, narrative
-
-pause
-
-- partie pratique: mise en ligne → aperçu du flux de production
+- Partie pratique: mise en ligne → aperçu du flux de production
   - publication sites statiques: markdown/html
-    - github pages
-    - https://pinkmypad.net/
   - versionnement avec git
+
+Pause
+
+- Partie pratique:
   - documentation et archives: accès aux contenus, export et possibilités de réutilisation
 - Quel(s) rôle(s) pour internet et le web dans votre pratique? médium artistique ou moyen de communication/documentation…  
   - idées de noms de domaines
