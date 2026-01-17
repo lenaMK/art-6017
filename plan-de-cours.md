@@ -104,8 +104,7 @@ pause
 ### Cours 2 | 12 février
 
 - Retours sur le dernier cours: distinction entre internet et web
-- Ẽtre quelque part sur le web: se situer dans l'espace numérique
-  
+- Étre quelque part sur le web: se situer dans l'espace numérique
 - Conférence: Christelle Proux, *Image Atlas*
 
 Pause
