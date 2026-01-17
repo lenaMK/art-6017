@@ -27,6 +27,7 @@
 
 mise en ligne → aperçu du flux de production
 
+- nom de domaine, hébergement
 - publication sites statiques: markdown/html
   - github pages
   - https://pinkmypad.net/

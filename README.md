@@ -2,4 +2,7 @@
 
 Matériel du cours, Lena MK, hiver 2026
 
-- Plan de cours
+- [Plan de cours](./plan-de-cours)
+- Cours 1
+- Cours 2
+- Cours 3
