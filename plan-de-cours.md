@@ -105,7 +105,7 @@ pause
 
 - Retours sur le dernier cours: distinction entre internet et web
 - Étre quelque part sur le web: se situer dans l'espace numérique
-- Conférence: Christelle Proux, *Image Atlas*
+- sConférence: Christelle Proux, [*Image Atlas*]](https://imageatlas.rhizome.org/) de Taryn Simon et Aaron Swartz
 
 Pause
 
