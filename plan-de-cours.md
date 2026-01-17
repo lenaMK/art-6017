@@ -49,10 +49,10 @@ Ce cours est centré sur l’apprentissage de quelques éléments constitutifs d
 
 ### Lectures obligatoires
 
-- **cours 2**: Vitali-Rosati, Marcello. 2024. *Éloge du bug. Être libre à l'époque du numérique*, La découverte, Zones.
-  - introduction et partie du chapitre 1 *Il faut que ça marche*: p. 9 à 31
+- **Cours 2**: Vitali-Rosati, Marcello. 2024. *Éloge du bug. Être libre à l'époque du numérique*, La découverte, Zones.
+  - Introduction et partie du chapitre 1 *Il faut que ça marche*: p. 9 à 31
 
-- **cours 3**: Russell, Legacy. 2020. *Glitch Feminism: A Manifesto*. Verso.
+- **Cours 3**: Russell, Legacy. 2020. *Glitch Feminism: A Manifesto*. Verso.
   - *Introduction*: p.3-14
   - *Glitch Ghosts*: p.63-69
   - *Glitch is Error*: p.73-79
@@ -61,11 +61,12 @@ Ce cours est centré sur l’apprentissage de quelques éléments constitutifs d
 
 ### Participation au cours
 
-- **cours 2**: présentation (5min) d'une page web "artistique/artisanale"
-  - doit être une page web: construction en HTML, document/objet fait pour être consulté dans un navigateur
-  - qu'est-ce qui est différent ou unique dans l'expérience de la page
-  - enquête: trouver des pistes sur comment ça a été fait (code source, librairies, inspiration)
-- **cours 3**: tour de table sur les usages d'internet et du web dans nos pratiques (5min)
+- **Cours 2**: présentation (5min) d'une page web "artistique/artisanale"
+  - Doit être une page web: construction en HTML, document/objet fait pour être consulté dans un navigateur
+  - Qu'est-ce qui est différent ou unique dans l'expérience de la page
+  - Enquête: trouver des pistes sur comment ça a été fait (code source, librairies, inspiration)
+  - *Contribution au cours*: ajout de l'URL dans les notes de cours
+- **Cours 3**: tour de table sur les usages d'internet et du web dans nos pratiques (5min par personne)
   - Quand et comment votre pratique fait-elle usage d'Internet et du web? Exemples:
     - Pendant les étapes de recherches et inspiration
     - Au sein de votre pratique artistique
@@ -77,6 +78,9 @@ Ce cours est centré sur l’apprentissage de quelques éléments constitutifs d
     - Usages "de base" ou critiques
     - Détournements et approches créatives 
     - Alignement entre valeurs et pratiques
+  - *Contribution au cours*: 
+    - documentation collective des usages pour le DESS
+    - idées de noms de domaine
 
 
 
@@ -115,20 +119,18 @@ Pause
 ### Cours 3 | 19 février 
 
 - Plateformes, services, réseaux
-  - *glitch feminism*: refus, bug et glitch
+  - *Flitch feminism*: refus, bug et glitch
   - CMS, WordPress, formats de la pensée et de la créativité. Utilisateur·rice ou créateur·rice?
-  - réseaux sociaux, décentralisation, formes de participation
+  - Réseaux sociaux, décentralisation, formes de participation
 - Introduction à javascript: 
-  - interactions et interfaces: clavier, souris, boutons et hyperliens
-  - intention et architecture : UI/UX, story board, narrative
+  - Interactions et interfaces: clavier, souris, boutons et hyperliens
+  - Intentions et architecture : UI/UX, story board, narrative
 - Partie pratique: mise en ligne → aperçu du flux de production
-  - publication sites statiques: markdown/html
-  - versionnement avec git
+  - Publication sites statiques: markdown/html
+  - Versionnement avec git
 
 Pause
 
 - Partie pratique:
-  - documentation et archives: accès aux contenus, export et possibilités de réutilisation
-- Quel(s) rôle(s) pour internet et le web dans votre pratique? médium artistique ou moyen de communication/documentation…  
-  - idées de noms de domaines
-  - identifier les 
+  - Documentation et archives: accès aux contenus, export et possibilités de réutilisation
+- Quel(s) rôle(s) pour internet et le web dans votre pratique? 
