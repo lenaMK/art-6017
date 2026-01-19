@@ -1,7 +1,6 @@
 # Plan de cours ART 6017
 
 
-
 ## Informations générales
 
 [CoursART 6017](https://admission.umontreal.ca/cours-et-horaires/cours/art-6017/)
@@ -10,7 +9,7 @@
 
 ### Enseignante
 
-Lena Mk
+Lena MK
 lena.krause@umontreal.ca 
 
 ### Horaire
@@ -21,9 +20,6 @@ De 16h à 21h00 (pauses: de 18h20 à 19h + 2x 5min) les jeudis 5, 12 et 19 et f�
 
 LAM (B-343), Pavillon Marie-Victorin,
 90 Av. Vincent-D'Indy, Outremont, QC H2V 2S9
-
-### Description du 
-
 
 
 ## Déroulement du cours
@@ -79,8 +75,8 @@ Ce cours est centré sur l’apprentissage de quelques éléments constitutifs d
     - Détournements et approches créatives 
     - Alignement entre valeurs et pratiques
   - *Contribution au cours*: 
-    - documentation collective des usages pour le DESS
-    - idées de noms de domaine
+    - Documentation collective des usages pour le DESS
+    - Idées de noms de domaine
 
 
 
@@ -92,8 +88,7 @@ Ce cours est centré sur l’apprentissage de quelques éléments constitutifs d
 - Introduction historique: des machines à calculer jusqu'à internet 
 - *Early net art* : l'art en ligne avant le web
 
-
-pause
+Pause
 
 - Le *World wide web* 
 - Partie pratique: HTML
@@ -110,7 +105,6 @@ pause
 Pause
 
 - Présentations individuelles : sites "faits à la main" 
-
 - Partie pratique: les bases de CSS
 
   
