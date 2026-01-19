@@ -10,6 +10,7 @@
 ### Enseignante
 
 Lena MK
+
 lena.krause@umontreal.ca 
 
 ### Horaire
@@ -43,7 +44,7 @@ Ce cours est centré sur l’apprentissage de quelques éléments constitutifs d
 
 ## Exigences et évaluations
 
-### Lectures obligatoires
+### Lectures obligatoires [:link:](https://www.zotero.org/groups/6358438/art-/tags/Lecture%20obligatoire/library)
 
 - **Cours 2**: Vitali-Rosati, Marcello. 2024. *Éloge du bug. Être libre à l'époque du numérique*, La découverte, Zones.
   - Introduction et partie du chapitre 1 *Il faut que ça marche*: p. 9 à 31
@@ -100,14 +101,13 @@ Pause
 
 - Retours sur le dernier cours: distinction entre internet et web
 - Étre quelque part sur le web: se situer dans l'espace numérique
-- sConférence: Christelle Proux, [*Image Atlas*]](https://imageatlas.rhizome.org/) de Taryn Simon et Aaron Swartz
+- Conférence: Christelle Proux, [*Image Atlas*]](https://imageatlas.rhizome.org/) de Taryn Simon et Aaron Swartz
 
 Pause
 
 - Présentations individuelles : sites "faits à la main" 
 - Partie pratique: les bases de CSS
 
-  
 
 ### Cours 3 | 19 février 
 
@@ -124,6 +124,7 @@ Pause
 
 Pause
 
-- Partie pratique:
-  - Documentation et archives: accès aux contenus, export et possibilités de réutilisation
+- Partie pratique: documentation et archives
+  - Accès aux contenus
+  - Export et possibilités de réutilisation
 - Quel(s) rôle(s) pour internet et le web dans votre pratique? 
