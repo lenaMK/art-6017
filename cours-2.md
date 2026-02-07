@@ -4,8 +4,11 @@
 
 [20min]
 
-- retours sur le dernier cours: distinction entre internet et web
-- commentaires sur la lecture obligatoire
+Retours sur le dernier cours: distinction entre internet et web
+
+- Juliette Lusven, *Visions Transatlantiques*, 2022
+
+Discussion commentaires sur la lecture obligatoire
 
 ## Être quelque part sur le web
 
@@ -16,6 +19,8 @@ Se situer dans l'espace numérique
 - navigateur
   - [The web stalker](https://anthology.rhizome.org/the-web-stalker) → navigateur
 - indexation
+
+day without art? 
 
 
 
