@@ -15,7 +15,7 @@ lena.krause@umontreal.ca
 
 ### Horaire
 
-De 16h à 21h00 (pauses: de 18h20 à 19h + 2x 5min) les jeudis 5, 12 et 19 et février 2026
+De 16h à 21h00 (pauses: de 18h20 à 19h + 2x 5min) les mercredis 4, 11 et 18 et février 2026
 
 ### Lieu
 
@@ -44,7 +44,7 @@ Ce cours est centré sur l’apprentissage de quelques éléments constitutifs d
 
 ## Exigences et évaluations
 
-### Lectures obligatoires [:link:](https://www.zotero.org/groups/6358438/art-/tags/Lecture%20obligatoire/library)
+### Lectures obligatoires 
 
 - **Cours 2**: Vitali-Rosati, Marcello. 2024. *Éloge du bug. Être libre à l'époque du numérique*, La découverte, Zones.
   - Introduction et partie du chapitre 1 *Il faut que ça marche*: p. 9 à 31
@@ -54,6 +54,8 @@ Ce cours est centré sur l’apprentissage de quelques éléments constitutifs d
   - *Glitch Ghosts*: p.63-69
   - *Glitch is Error*: p.73-79
   - *Glitch mobilizes*: p. 121-129
+
+Les PDFs des lectures sont sur Studium.
 
 
 ### Participation au cours
@@ -83,7 +85,7 @@ Ce cours est centré sur l’apprentissage de quelques éléments constitutifs d
 
 ## Séances du cours
 
-### Cours 1 | 5 février
+### Cours 1 | 4 février
 
 - Présentation du cours et tour de table
 - Introduction historique: des machines à calculer jusqu'à internet 
@@ -97,19 +99,21 @@ Pause
 
 
 
-### Cours 2 | 12 février
+### Cours 2 | 11 février
 
 - Retours sur le dernier cours: distinction entre internet et web
-- Étre quelque part sur le web: se situer dans l'espace numérique
-- Conférence: Christelle Proux, [*Image Atlas*]](https://imageatlas.rhizome.org/) de Taryn Simon et Aaron Swartz
+- Présentations individuelles : sites "faits à la main" 
+- Être quelque part sur le web: se situer dans l'espace numérique
 
 Pause
 
-- Présentations individuelles : sites "faits à la main" 
+- Être quelque part sur le web: se situer dans l'espace numérique (suite)
 - Partie pratique: les bases de CSS
 
+~~Conférence~~: Christelle Proux, [*Image Atlas*]](https://imageatlas.rhizome.org/) de Taryn Simon et Aaron Swartz. La conférencière n'est malheureusement pas disponible le mercredi 11 février.
 
-### Cours 3 | 19 février 
+
+### Cours 3 | 18 février 
 
 - Plateformes, services, réseaux
   - *Flitch feminism*: refus, bug et glitch

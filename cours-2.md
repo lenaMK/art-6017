@@ -16,22 +16,6 @@ Se situer dans l'espace numérique
 - navigateur
   - [The web stalker](https://anthology.rhizome.org/the-web-stalker) → navigateur
 - indexation
-- moteurs de recherche
-- seo
-
-## Conférence: Christelle Proux, *Image Atlas*
-
-[17h30]
-
-
-
----
-
-## pause 
-
-18h20-19h
-
-***
 
 
 
@@ -54,6 +38,26 @@ Contribution au cours
 - Identification de quelques éléments techniques
 
 - Ajouter l'URL sur le site du cours pour la documentation
+
+
+
+---
+
+## pause 
+
+18h20-19h
+
+***
+
+## Être quelque part sur le web
+
+Se situer dans l'espace numérique (suitre)
+
+- moteurs de recherche
+  - *Image atlas*
+- seo
+- lieux de performance, médium
+  - Simon Weckert, *[Google Maps Hacks](https://www.simonweckert.com/googlemapshacks.html)*, 2020
 
 
 
