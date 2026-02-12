@@ -1,11 +1,13 @@
 # Plan de cours ART 6017
 
 
+
+
 ## Informations générales
 
 [CoursART 6017](https://admission.umontreal.ca/cours-et-horaires/cours/art-6017/)
 
-> Initiation aux outils, aux méthodes et aux techniques de la production d'un site Web : structure, styles de mise en page et composantes. Intégration des médias et fonctions d'animation et d'interaction de base. transfert sur le serveur.
+> Initiation aux outils, aux méthodes et aux techniques de la production d'un site Web : structure, stfles de mise en page et composantes. Intégration des médias et fonctions d'animation et d'interaction de base. transfert sur le serveur.
 
 ### Enseignante
 

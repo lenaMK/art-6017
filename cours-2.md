@@ -100,6 +100,18 @@ https://sites.rhizome.org/anthology/webstalker.html
 
 Following the release of *The Web Stalker*, numerous other artists took up the project of creating their own web , imagining  alternative forms of engagement between the user and the web
 
+
+
+---
+
+## pause 
+
+18h20-19h
+
+***
+
+## 
+
 ### Indexation 
 
 Principes de l'indexation
@@ -118,7 +130,7 @@ Day without art
 
 Date de 1995 
 
-- Davigation par signets enregistrés dans le navigateur
+- Navigation par signets enregistrés dans le navigateur
 
 > Because access to the internet and reliable information about HIV have often been precarious, digital blackouts developed as a tactic of AIDS activism to represent the intimacy between AIDS and erasure. In the case of Day Without Art in 1995, logging on and finding nothing in place of a familiar website was a visual shock and profound interruption for the typical user
 >
@@ -126,23 +138,9 @@ Date de 1995
 
 (avant 1996 donc pas d'indexation)
 
-Rhizome : archive art numérique → archiver le html ne suffit pas toujours (exemple après la pause avec Image Atlas)
-
-Suite: moteurs de recherche
+Rhizome : archive art numérique → archiver le html ne suffit pas toujours
 
 
-
----
-
-## pause 
-
-18h20-19h
-
-***
-
-## Être quelque part sur le web
-
-Se situer dans l'espace numérique (suite)
 
 ### Moteurs de recherche
 
@@ -175,5 +173,17 @@ Montrer comment trouver un nom de domaine
 
 
 ## Partie pratique: les bases de CSS
+
+démo [15min]
+
+- langage de balisage: md
+- éditeur de texte / code vs éditeur md
+- md vers html
+
+
+
+
+
+pratique
 
 [1h]

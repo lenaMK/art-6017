@@ -9,6 +9,10 @@
 Matériel du cours, Lena MK, hiver 2026
 
 - [Plan de cours](./plan-de-cours)
+  - cours 2: [visuel (PDF)](), [notes d'enseignement](./cours-2) 
+
 - [Bibliographie en ligne](https://www.zotero.org/groups/6358438/art-/library)
   - contient les PDFs des lectures obligatoires
+- [Pages web explorées](./pages-web)
+- [Demo: plan de cours avec styles](), traces de la partie pratique 
 
