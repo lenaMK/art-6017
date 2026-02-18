@@ -9,9 +9,8 @@
 Matériel du cours, Lena MK, hiver 2026
 
 - [Plan de cours](./plan-de-cours)
-
+	- [Plan de cours funky](./demo/plan-de-cours-funky.html)
 - Cours 2: [visuel (PDF)](./files/ART6017_cours2.pdf), [notes d'enseignement](./cours-2), [pages web explorées](./pages-web)
-
 - [Bibliographie du cours](https://www.zotero.org/groups/6358438/art-/library)
 
   

@@ -1,0 +1,59 @@
+body {
+    max-width: 800px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    /* Pour centrer un élément en css */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-color: black;
+    color: antiquewhite;
+}
+
+h1 {
+    /* Passer le contenu en majuscules */
+    text-transform: uppercase;
+    margin-bottom: 2em;
+}
+
+h2{
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+}
+
+h3 {
+    margin-top: 1.5em;
+}
+
+a  {
+    color: fuchsia;
+}
+
+a:hover {
+    color: turquoise;
+    font-size: larger;
+}
+
+#numCours {
+    text-align: center;
+    border: 3px solid lightblue;
+    margin: 10%;
+    border-radius: 25px;
+    padding: 30px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#numCours:hover {
+    background-color: dimgray;
+    color: black;
+    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🔥</text></svg>") 16 0,auto; /*!emojicursor.app*/
+}
+
+blockquote {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
