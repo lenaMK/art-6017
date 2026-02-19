@@ -6,9 +6,9 @@ function wowFunction(){
     totalClicks ++;
 
     var nb = Math.floor(Math.random() * 10);
-    //console.log(nb)
+    console.log("le chiffre au hasard", nb)
     totalWow += nb
-    //console.log(totalWow)
+    console.log("nombre total de wow", totalWow)
     console.log("wow")
 
 
@@ -23,7 +23,7 @@ function wowFunction(){
 
         var elementVise = document.getElementById("numCours")
 
-        //elementVise.style.color = "red";
+        //si on n'a pas encore de texte pour Wow
         if (!firstWowText){
             wowParagraph = document.createElement("p");
             wowParagraph.id="wowP"
@@ -46,5 +46,10 @@ function alertKB(event){
     //event properties https://www.w3schools.com/jsref/dom_obj_event_prop.asp
     var key = event.code
     console.log(key)
-    alert(`Vous avez trouvé la fonction secrète avec ${key} `)
+/*
+ceci est un commentaire
+sur plusieurs lignes
+*/
+    if (key == "KeyB")
+        alert(`Vous avez trouvé la fonction secrète avec ${key} `)
 }

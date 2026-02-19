@@ -76,6 +76,15 @@ Architecture d'un site:
 - pages
 - navigation
 
+Vue mobile:
+
+- tester
+- « minimiser les dégâts » (min-width)
+- coder pour adapter au mobile → montrer exemple cv
+  - penser largeur
+  - ordre d'affichage
+  - grille
+
 Design d'interactions : UI/UX, story board, narrative
 
 ***
@@ -97,8 +106,14 @@ mise en ligne → aperçu du flux de production
 - nom de domaine
 - hébergement & publication sites statiques: markdown/html
   - github pages
-  - https://pinkmypad.net/
 - versionnement avec git
+
+portefolio
+
+publication d'essais/textes/devoirs
+
+- minimal et rapide
+- lien URL stable (si vous le gardez stable)
 
 
 
